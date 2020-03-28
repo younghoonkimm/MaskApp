@@ -1,25 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
+import styled, { css } from 'styled-components';
 import './App.css';
+// import Mask from './Loca';
+import Maps from './Locas';
+import SearchInput from './input';
+import Mask from './Mask';
+
+const MapWrapper = styled.div `
+  position: relative;
+  overflow: hidden;
+  
+
+`
+
+
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <MapWrapper>
+      <SearchInput/>
+      <Maps/>
+    </MapWrapper>  
+  
   );
 }
 
