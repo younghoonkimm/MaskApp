@@ -2,9 +2,9 @@ import React from 'react';
 import styled, { css } from 'styled-components';
 import './App.css';
 // import Mask from './Loca';
-import Maps from './Locas';
-import SearchInput from './input';
-import Mask from './Mask';
+import Maps from './Components/Locas';
+
+import Mask from './Components/Mask';
 
 const MapWrapper = styled.div `
   position: relative;
@@ -19,9 +19,10 @@ function App() {
 
   return (
     <MapWrapper>
-      <SearchInput/>
       <Maps/>
+      
     </MapWrapper>  
+    
   
   );
 }
