@@ -13,7 +13,7 @@ export async function getMask(y, x, setStores) {
     );
     const stores = response.data.stores
     return setStores(stores)
-     console.log()
+    
   }
 
   

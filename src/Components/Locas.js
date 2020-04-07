@@ -30,6 +30,7 @@ const Maps = () =>{
       data,
     })
   }
+
 console.log(pharmacy)
   const searchPlace = keyword => {
       const places = new kakao.maps.services.Places()
@@ -40,10 +41,11 @@ console.log(pharmacy)
           const moveLatLng = new kakao.maps.LatLng(y, x);
           map.panTo(moveLatLng)
           getMask(y, x, setStores)
-          
+                
+        } else if (status === kakao.maps.services.Status.ZERO_RESULT) {
+          setError("검색 결과가 없습니다.")
         } else {
-          
-          setError("404Error")
+          setError("잠시 후 다시 시도해주세요.")
         }
       })
       
@@ -56,43 +58,7 @@ console.log(pharmacy)
   }
  
 
-  // const getLocation = () => {
-  //   if (navigator.geolocation) { 
-  //     const [lat, lng] = pharmacy
-      
-  //     navigator.geolocation.getCurrentPosition( position => {
-  //         const { coords } = position
-  //         const { latitude, longitude } = coords
-  //         const locPosition = new kakao.maps.LatLng(latitude, longitude)
-  //         const message = '쥐엔장'
-  //         map.panTo(locPosition);
-         
-  //         displayMarker(locPosition, message);
-  //       }
-  //     )
-  //   } 
-  // }
-  
-
-  // const displayMarker = (locPosition, message) =>{
-  //   const marker = new kakao.maps.Marker({
-  //     map: map,
-  //     position: locPosition
-  //   });
-
-  //   const iwContent = message,
-  //     iwRemoveable = true;
-
-  //   const infowindow = new kakao.maps.InfoWindow({
-  //     content: iwContent,
-  //     removable: iwRemoveable
-  //   });
-
-  //   infowindow.open(map, marker);
-
-  //   map.setCenter(locPosition);
-  // }
-
+ 
 
   useEffect(() => {
     const container = document.getElementById("map")
