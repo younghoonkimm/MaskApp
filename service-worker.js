@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/younghoonKimm/MaskApp.git/precache-manifest.8f5ddd6ebf0cdf1585052c8ec7887ecf.js"
+  "/younghoonKimm/MaskApp.git/precache-manifest.0930f15185fa373699a8bcd5fe953243.js"
 );
 
 self.addEventListener('message', (event) => {

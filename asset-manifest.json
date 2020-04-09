@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/younghoonKimm/MaskApp.git/static/css/main.69eda509.chunk.css",
-    "main.js": "/younghoonKimm/MaskApp.git/static/js/main.42e89b6b.chunk.js",
-    "main.js.map": "/younghoonKimm/MaskApp.git/static/js/main.42e89b6b.chunk.js.map",
+    "main.js": "/younghoonKimm/MaskApp.git/static/js/main.69915742.chunk.js",
+    "main.js.map": "/younghoonKimm/MaskApp.git/static/js/main.69915742.chunk.js.map",
     "runtime-main.js": "/younghoonKimm/MaskApp.git/static/js/runtime-main.f40c01c9.js",
     "runtime-main.js.map": "/younghoonKimm/MaskApp.git/static/js/runtime-main.f40c01c9.js.map",
-    "static/js/2.8d3328c3.chunk.js": "/younghoonKimm/MaskApp.git/static/js/2.8d3328c3.chunk.js",
-    "static/js/2.8d3328c3.chunk.js.map": "/younghoonKimm/MaskApp.git/static/js/2.8d3328c3.chunk.js.map",
+    "static/js/2.31af0fa4.chunk.js": "/younghoonKimm/MaskApp.git/static/js/2.31af0fa4.chunk.js",
+    "static/js/2.31af0fa4.chunk.js.map": "/younghoonKimm/MaskApp.git/static/js/2.31af0fa4.chunk.js.map",
     "index.html": "/younghoonKimm/MaskApp.git/index.html",
-    "precache-manifest.8f5ddd6ebf0cdf1585052c8ec7887ecf.js": "/younghoonKimm/MaskApp.git/precache-manifest.8f5ddd6ebf0cdf1585052c8ec7887ecf.js",
+    "precache-manifest.0930f15185fa373699a8bcd5fe953243.js": "/younghoonKimm/MaskApp.git/precache-manifest.0930f15185fa373699a8bcd5fe953243.js",
     "service-worker.js": "/younghoonKimm/MaskApp.git/service-worker.js",
-    "static/css/main.69eda509.chunk.css.map": "/younghoonKimm/MaskApp.git/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.8d3328c3.chunk.js.LICENSE.txt": "/younghoonKimm/MaskApp.git/static/js/2.8d3328c3.chunk.js.LICENSE.txt"
+    "static/js/2.31af0fa4.chunk.js.LICENSE.txt": "/younghoonKimm/MaskApp.git/static/js/2.31af0fa4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f40c01c9.js",
-    "static/js/2.8d3328c3.chunk.js",
-    "static/css/main.69eda509.chunk.css",
-    "static/js/main.42e89b6b.chunk.js"
+    "static/js/2.31af0fa4.chunk.js",
+    "static/js/main.69915742.chunk.js"
   ]
 }
