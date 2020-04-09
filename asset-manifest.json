@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/MaskApp/static/js/main.650455e8.chunk.js",
-    "main.js.map": "/MaskApp/static/js/main.650455e8.chunk.js.map",
+    "main.js": "/MaskApp/static/js/main.776796f3.chunk.js",
+    "main.js.map": "/MaskApp/static/js/main.776796f3.chunk.js.map",
     "runtime-main.js": "/MaskApp/static/js/runtime-main.e9b76276.js",
     "runtime-main.js.map": "/MaskApp/static/js/runtime-main.e9b76276.js.map",
-    "static/js/2.3097a57e.chunk.js": "/MaskApp/static/js/2.3097a57e.chunk.js",
-    "static/js/2.3097a57e.chunk.js.map": "/MaskApp/static/js/2.3097a57e.chunk.js.map",
+    "static/js/2.e92ee1bc.chunk.js": "/MaskApp/static/js/2.e92ee1bc.chunk.js",
+    "static/js/2.e92ee1bc.chunk.js.map": "/MaskApp/static/js/2.e92ee1bc.chunk.js.map",
     "index.html": "/MaskApp/index.html",
-    "precache-manifest.f454f3422378e862c44eec268cf419c8.js": "/MaskApp/precache-manifest.f454f3422378e862c44eec268cf419c8.js",
+    "precache-manifest.179b9e5ca4f66e7fe07735800e74bebf.js": "/MaskApp/precache-manifest.179b9e5ca4f66e7fe07735800e74bebf.js",
     "service-worker.js": "/MaskApp/service-worker.js",
-    "static/js/2.3097a57e.chunk.js.LICENSE.txt": "/MaskApp/static/js/2.3097a57e.chunk.js.LICENSE.txt"
+    "static/js/2.e92ee1bc.chunk.js.LICENSE.txt": "/MaskApp/static/js/2.e92ee1bc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e9b76276.js",
-    "static/js/2.3097a57e.chunk.js",
-    "static/js/main.650455e8.chunk.js"
+    "static/js/2.e92ee1bc.chunk.js",
+    "static/js/main.776796f3.chunk.js"
   ]
 }
