@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e82042de6e1b6d73e0adfc191e89f07",
+    "revision": "0b8dbfaf590f6d785361501aeb9f6b41",
     "url": "/younghoonKimm/MaskApp.git/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/younghoonKimm/MaskApp.git/static/js/2.31af0fa4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a591a0bccf9b50eb61d",
-    "url": "/younghoonKimm/MaskApp.git/static/js/main.69915742.chunk.js"
+    "revision": "79681ab1e03282000e90",
+    "url": "/younghoonKimm/MaskApp.git/static/js/main.650455e8.chunk.js"
   },
   {
     "revision": "70d79177f8cc7f96a256",
