@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import styled, { css } from 'styled-components';
+import styled from 'styled-components';
 
 
 
@@ -31,30 +31,30 @@ const Gnb = styled.div `
     
 `
 
-const CircleBtn = styled.button `
+// const CircleBtn = styled.button `
 
-    background: #845ef7;
-    &:hover{
-        background: #63e6be;
-    }
-    &:active{
-        background: #20c997;
-    }
-    z-index: 5;
-    cursor: pointer;
-    width: 50px;
-    height: 50px;
-    position: absolute;
-    right: 0;
-    top: 0;
-    font-size:60px;
-    color : #fff;
-    border-radius: 40px;
-    border: none; 
-    outline: none;
-    transition: all .125s ease-in;
+//     background: #845ef7;
+//     &:hover{
+//         background: #63e6be;
+//     }
+//     &:active{
+//         background: #20c997;
+//     }
+//     z-index: 5;
+//     cursor: pointer;
+//     width: 50px;
+//     height: 50px;
+//     position: absolute;
+//     right: 0;
+//     top: 0;
+//     font-size:60px;
+//     color : #fff;
+//     border-radius: 40px;
+//     border: none; 
+//     outline: none;
+//     transition: all .125s ease-in;
 
-`
+// `
 
 
 

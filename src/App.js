@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import './App.css';
 import Maps from './Components/Locas';
 
 

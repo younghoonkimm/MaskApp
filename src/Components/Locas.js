@@ -1,5 +1,5 @@
-import React,{ useState, useEffect, useCallback, useRef } from 'react'/*global kakao*/ ;
-import styled, { css } from 'styled-components';
+import React,{ useState, useEffect, useCallback } from 'react'/*global kakao*/ ;
+import styled from 'styled-components';
 import SearchInput from './input.js'
 import Contents from './Contents.js'
 import{ getMask } from './Mask.js';
