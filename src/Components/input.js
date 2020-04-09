@@ -10,7 +10,7 @@ const Gnb = styled.div `
     right: 0;
     bottom:0;
     z-index:20;
-    background-color: #f4fce3;
+    background-color: #e5dbff;
     width: 100vw;
     height: 20vh;
     color: #fff;
@@ -23,15 +23,17 @@ const Gnb = styled.div `
         outline: none;
         width: 30vw;
         height: 30px;
-        background-color:  #94d82d;
+        background-color:  #f3f0ff;
         border: none;
-        color: #fff;
+        color: #5f3dc4;
     }
+
     
 `
+
 const CircleBtn = styled.button `
 
-    background: #38d9a9;
+    background: #845ef7;
     &:hover{
         background: #63e6be;
     }
@@ -77,12 +79,8 @@ function SearchInput({onSearch}){
 
     return(
         
-            <Gnb
-                
-            >
-                <CircleBtn
-                    onClick={gnbClose}
-                />
+            <Gnb>
+              
                 <input 
                     type='search'
                     className='inputSearch'  
