@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/younghoonKimm/MaskApp.git/static/css/main.69eda509.chunk.css",
+    "main.js": "/younghoonKimm/MaskApp.git/static/js/main.cc472a28.chunk.js",
+    "main.js.map": "/younghoonKimm/MaskApp.git/static/js/main.cc472a28.chunk.js.map",
+    "runtime-main.js": "/younghoonKimm/MaskApp.git/static/js/runtime-main.f40c01c9.js",
+    "runtime-main.js.map": "/younghoonKimm/MaskApp.git/static/js/runtime-main.f40c01c9.js.map",
+    "static/js/2.8d3328c3.chunk.js": "/younghoonKimm/MaskApp.git/static/js/2.8d3328c3.chunk.js",
+    "static/js/2.8d3328c3.chunk.js.map": "/younghoonKimm/MaskApp.git/static/js/2.8d3328c3.chunk.js.map",
+    "index.html": "/younghoonKimm/MaskApp.git/index.html",
+    "precache-manifest.4bf548297e837059913b8e8e4972ac78.js": "/younghoonKimm/MaskApp.git/precache-manifest.4bf548297e837059913b8e8e4972ac78.js",
+    "service-worker.js": "/younghoonKimm/MaskApp.git/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/younghoonKimm/MaskApp.git/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.8d3328c3.chunk.js.LICENSE.txt": "/younghoonKimm/MaskApp.git/static/js/2.8d3328c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f40c01c9.js",
+    "static/js/2.8d3328c3.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.cc472a28.chunk.js"
+  ]
+}
